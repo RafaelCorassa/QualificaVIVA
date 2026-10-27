@@ -1,0 +1,15 @@
+# Substitua os campos iniciados por "PREENCHER" antes de publicar o projeto.
+cff-version: 1.2.0
+message: "Se utilizar este software, cite-o usando os metadados abaixo."
+title: "QualificaVIVA"
+type: software
+authors:
+  - family-names: "PREENCHER SOBRENOME"
+    given-names: "PREENCHER NOME"
+    affiliation: "PREENCHER INSTITUIÇÃO"
+version: "PREENCHER VERSÃO"
+abstract: >-
+  Aplicativo para importação, padronização e avaliação da qualidade dos dados
+  do VIVA-Sinan. O OpenAI Codex foi utilizado como ferramenta de apoio à
+  implementação, revisão e teste do código; a autoria e a responsabilidade
+  permanecem com os autores do software.

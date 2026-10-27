@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+
+# Bases de trabalho e artefatos gerados localmente podem conter dados sensíveis.
+/Dados/
+/output/
+/tmp/
+
+renv/library/
+renv/staging/
+renv/cache/
+renv/python/
+.bootstrap-lib/
+*.Rproj

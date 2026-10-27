@@ -1,0 +1,2 @@
+# Arquivos do Illustrator são binários e devem ser preservados sem conversão.
+*.ai binary
