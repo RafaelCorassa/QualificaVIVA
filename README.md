@@ -138,10 +138,10 @@ metodologia e a auditoria territorial permanecem em todos os relatórios.
 
 ## Autoria e citação
 
-- **Autor(es):** [preencher nome do autor ou equipe]
-- **Instituição:** [preencher instituição]
-- **Contato:** [preencher contato]
-- **Ano:** [preencher ano]
+- **Autor(es):** [Rafael Bello Corassa]
+- **Instituição:** [CGVIVA/DAENT/SVSA/MS]
+- **Contato:** [rafael.corassa@saude.gov.br]
+- **Ano:** [2026]
 - **Versão:** [preencher versão]
 - **Licença:** [definir licença de uso e distribuição]
 
